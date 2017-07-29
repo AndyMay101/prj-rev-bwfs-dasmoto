@@ -1,0 +1,50 @@
+h1 {
+  font-size: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+
+}
+
+div.pageheader {
+  background-image: url("../images/pattern.jpeg");
+
+}
+p {
+  font-family: Helvetica;
+
+}
+p.strongtxt {
+  font-weight: bold;
+  font-family: Helvetica;
+  color: blue;
+
+}
+
+h2.subhead1, h2.subhead2, h2.subhead3 {
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+
+h2.subhead1 {
+background-color: mediumspringgreen;
+}
+
+h2.subhead2 {
+background-color: lightcoral;
+}
+
+h2.subhead3 {
+background-color: skyblue;
+}
+
+h3.subhead {
+font-family: Helvetica;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
